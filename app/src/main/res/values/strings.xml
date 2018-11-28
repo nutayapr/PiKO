@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PIKO</string>
+    <string name="sche_name">SCHEDULE</string>
+    <string name="add_sche">Add new schedule</string>
+    <string name="sche_mon">MON</string>
+    <string name="add">Add</string>
+    <string name="close">Cancel</string>
+    <string name="sche_time">Time:</string>
+    <string name="sche_to">-</string>
+    <string name="sche_day">Day:</string>
+    <string-array name="sche_weekday">
+        <item id="mon">Monday</item>
+        <item id="tue">Tuesday</item>
+        <item id="wed">Wednesday</item>
+        <item id="thu">Thursday</item>
+        <item id="fri">Friday</item>
+        <item id="sat">Saturday</item>
+        <item id="sun">Sunday</item>
+    </string-array>
+    <string name="sche_activity">Activity:</string>
+    <string name="sche_start">start</string>
+    <string name="fill_activity">activity</string>
+</resources>
